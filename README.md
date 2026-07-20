@@ -2,7 +2,16 @@
 
 An interactive data visualization project analyzing **147,000+ employment-based green card (PERM) applications** from FY2025 to explore employer sponsorship trends, wages, occupations, and application outcomes.
 
-## Overview
+### **For easy access:**
+
+**Name:** Yanjun Tan  
+**Email:** yjtan@umich.edu  
+**GitHub Repository:** https://github.com/cloudygreennn/assignment-3  
+**GitHub Notebook:** https://github.com/cloudygreennn/assignment-3/blob/main/assignment3.ipynb  
+**Dashboard (Google Colab):** https://colab.research.google.com/drive/1bTtYtCJL68bdL89TMAq2aK-uq0Lp1uKM?usp=sharing  
+**Vocareum:** https://labs.vocareum.com/main/main.php?m=clabide&mode=s&asnid=5516395&stepid=5516396&hideNavBar=1
+
+### **Overview**
 
 This project answers questions such as:
 
@@ -15,7 +24,7 @@ This project answers questions such as:
 
 The project includes **six interactive visualizations** connected through shared dashboard filters.
 
-## Built With
+### **Built With**
 
 - Python
 - Pandas
@@ -23,14 +32,14 @@ The project includes **six interactive visualizations** connected through shared
 - ipywidgets
 - Jupyter Notebook
 
-## Dashboard Features
+### **Dashboard Features**
 
 - Filter by State
 - Filter by Company Size
 - Filter by Job Function
 - Six linked interactive charts that update simultaneously
 
-## Repository Structure
+### **Repository Structure**
 
 ```
 ├── assignment3.ipynb
@@ -42,7 +51,7 @@ The project includes **six interactive visualizations** connected through shared
 > **Note:**  
 > The notebook automatically downloads `perm_data.csv` from the **U.S. Department of Labor (DOL)** if it is not found locally. Alternatively, you can use the included `df_clean.csv` to run the analysis immediately without downloading or preprocessing the raw dataset.
 
-## Running the Project
+### **Running the Project**
 
 1. Clone this repository.
 2. Install the required Python packages.
@@ -53,11 +62,11 @@ The project includes **six interactive visualizations** connected through shared
    - Use the included `df_clean.csv` if you prefer to skip data preparation.
 6. Explore the interactive dashboard.
 
-## Dataset
+### **Dataset**
 
 Employment-Based Green Card (PERM) sponsorship data from the **U.S. Department of Labor (DOL)** containing over **147,000 employer filings** from Fiscal Year 2025.
 
-## Key Insights
+### **Key Insights**
 
 - Larger companies generally offer higher and more consistent wages.
 - Company age has a smaller impact on wages than company size.
