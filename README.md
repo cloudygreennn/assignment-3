@@ -4,10 +4,10 @@ An interactive data visualization project analyzing **147,000+ employment-based 
 
 ### **For easy access:**
 
-**GitHub Repositories**: https://github.com/cloudygreennn/assignment-3/
-**Github Notebook**: https://github.com/cloudygreennn/assignment-3/blob/main/assignment3.ipynb
-**Dashboard on Google Colab:** https://colab.research.google.com/drive/1bTtYtCJL68bdL89TMAq2aK-uq0Lp1uKM?usp=sharing
-**Full Notebook on Google Colab**: https://colab.research.google.com/drive/1_lA8uxC8US09y7JRLS7qlC7ayXE8Uh0b#scrollTo=9b8ccbe7-01f1-485b-8dff-60fb456d1be8
+**GitHub Repositories**: https://github.com/cloudygreennn/assignment-3/<br>
+**Github Notebook**: https://github.com/cloudygreennn/assignment-3/blob/main/assignment3.ipynb<br>
+**Dashboard on Google Colab:** https://colab.research.google.com/drive/1bTtYtCJL68bdL89TMAq2aK-uq0Lp1uKM?usp=sharing<br>
+**Full Notebook on Google Colab**: https://colab.research.google.com/drive/1_lA8uxC8US09y7JRLS7qlC7ayXE8Uh0b#scrollTo=9b8ccbe7-01f1-485b-8dff-60fb456d1be8<br>
 
 ### **Overview**
 
