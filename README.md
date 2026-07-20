@@ -65,9 +65,3 @@ Employment-Based Green Card (PERM) sponsorship data from the **U.S. Department o
 - Software Engineer is the most frequently sponsored job title.
 - Employer sponsorship is concentrated in major technology hubs.
 - Processing time shows little relationship with application outcomes.
-
-## Author
-
-**Yanjun Tan**
-
-GitHub: https://github.com/cloudygreennn
